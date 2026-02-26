@@ -1,5 +1,4 @@
 :root {
-<<<<<<< HEAD
   /* Цвета */
   --color-primary: #0e1112;
   --color-bg-1: #ffffff;
@@ -15,7 +14,7 @@
 h1 {
   font-family: var(--font-primary);
   color: var(--color-primary);
-=======
+
   --md-sys-color-surface: #fef7ff;
   --md-sys-color-surface-container: #f3edf7;
   --md-sys-color-on-surface: #1d1b20;
@@ -28,7 +27,7 @@ h1 {
   --md-sys-color-surface-tint: #6750a4;
 
   --font-family-base: "Roboto", sans-serif;
->>>>>>> 2707d1b0c8bb5d857f3482aed4e8dbee2e2c4b95
+
 }
 
 * {
@@ -38,19 +37,19 @@ h1 {
 }
 
 body {
-<<<<<<< HEAD
+
   background: var(--color-bg-1);
   color: var(--color-text-secondary-1);
   color: var(--md-sys-color-on-surface);
   height: 100vh;
   overflow-y: auto;
-=======
+
   font-family: var(--font-family-base);
   background-color: var(--md-sys-color-surface);
   color: var(--md-sys-color-on-surface);
   height: 100vh;
   overflow: hidden;
->>>>>>> 2707d1b0c8bb5d857f3482aed4e8dbee2e2c4b95
+
 }
 
 .app-container {
@@ -160,11 +159,8 @@ body {
   display: flex;
   flex-direction: column;
   position: relative;
-<<<<<<< HEAD
   overflow-y: auto;
-=======
   overflow: hidden;
->>>>>>> 2707d1b0c8bb5d857f3482aed4e8dbee2e2c4b95
   margin-top: 0;
 }
 
